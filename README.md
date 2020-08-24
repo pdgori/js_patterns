@@ -1,6 +1,7 @@
 ### Javascript Patterns
 
 * Builder
+* Closure
 * Command
 * Composition
 * Dependency Inversion Principle
