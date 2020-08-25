@@ -9,5 +9,7 @@
 * Factory 
 * Null
 * Observer
+* Prototype
 * Single Responsability
 * Singleton
+* Strategy
