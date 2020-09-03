@@ -8,6 +8,7 @@
 * Facade 
 * Factory 
 * Null
+* Mediator
 * Observer
 * Prototype
 * Single Responsability
